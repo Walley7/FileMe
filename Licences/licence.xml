@@ -1,0 +1,14 @@
+<License>
+  <Id>22f2263f-1714-4ef7-bf00-a7885ab134b4</Id>
+  <Type>Standard</Type>
+  <ProductFeatures>
+    <Feature name="Unused Options">False</Feature>
+  </ProductFeatures>
+  <Customer>
+    <Name>Daniel Walley</Name>
+    <Email>walley6@gmail.com</Email>
+  </Customer>
+  <Expiration>Wed, 18 Dec 2019 13:00:00 GMT</Expiration>
+  <Quantity>1</Quantity>
+  <Signature>MEQCIE2Fvx3BPLECKdRc03eSgMfzk9JcpCoGUSRw5P8rcqtwAiAko/bZgxGnUZlB6QMm57s3IdLUWw7vBxIpPy7UAWsl3Q==</Signature>
+</License>
